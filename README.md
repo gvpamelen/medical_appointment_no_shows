@@ -6,7 +6,7 @@ Medical Appointment No Shows
 **General process:** 
 The business challenge and data comes from [Kaggle's Medical Appointment No Shows](https://www.kaggle.com/joniarroba/noshowappointments) dataset, containing data on doctor appointments at a clinic in Brazil in May-2016. After extracting and cleaning this data, we perform an extensive EDA during which generate additional features. These features are used to train a Random Forest Model to predict wether or not a patient is expected to show-up, after which this model is evaluates using Partial Dependence Plots. 
 
-![](images/screenshot.png)
+![](screenshot.png)
 
 
 Conclusion
@@ -19,7 +19,7 @@ We also propose an application of our predictive model to allow for dynamic over
 
 More info in notebook 4, section 5.
 
-![](images/screenshot_2.png)
+![](screenshot_2.png)
 
 
 Outlook (WIP)
